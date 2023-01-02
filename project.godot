@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="tuo"
+config/name="godot-softwareUI-Demo"
 run/main_scene="res://src/Main.tscn"
 run/low_processor_mode=true
 config/icon="res://assets/graphics/icons/icon.png"
